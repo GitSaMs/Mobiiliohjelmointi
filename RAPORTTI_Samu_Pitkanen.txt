@@ -1,0 +1,4 @@
+Ohjelma vaihtaa taustakuvaa kun puhelinta heiluttaa. Tässä tapauksessa emulaattorin rajatessa mahdollisuuksia,
+saa palautteena tekstiä.
+
+GITHUB LINKKI: 
